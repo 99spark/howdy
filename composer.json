@@ -1,0 +1,14 @@
+{
+  "name": "afischer/328/howdy",
+  "description": "Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Alex Fischer",
+      "email": "fischer.alex@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
